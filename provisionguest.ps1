@@ -1,5 +1,5 @@
 
 # Folders
 New-Item -ItemType Directory c:\temp
-New-Item -ItemType Directory c:\music
+New-Item -ItemType Directory c:\temp2
 
